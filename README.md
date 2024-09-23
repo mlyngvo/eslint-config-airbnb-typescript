@@ -24,9 +24,9 @@ Make sure you have the regular Airbnb config setup. If you are using React, use 
 ### 2) Install dependencies (and peer dependencies)
 
 ```bash
-npm install eslint-config-airbnb-typescript \
-            @typescript-eslint/eslint-plugin@^7.0.0 \
-            @typescript-eslint/parser@^7.0.0 \
+npm install @mlyngvo/eslint-config-airbnb-typescript \
+            @typescript-eslint/eslint-plugin@^8.0.0 \
+            @typescript-eslint/parser@^8.0.0 \
             --save-dev
 ```
 
