@@ -7,10 +7,10 @@
   "homepage": "https://github.com/iamturns/eslint-config-airbnb-typescript",
   "repository": {
     "type": "git",
-    "url": "https://github.com/iamturns/eslint-config-airbnb-typescript.git"
+    "url": "git+https://github.com/mlyngvo/eslint-config-airbnb-typescript.git"
   },
   "bugs": {
-    "url": "https://github.com/iamturns/eslint-config-airbnb-typescript/issues"
+    "url": "https://github.com/mlyngvo/eslint-config-airbnb-typescript/issues"
   },
   "scripts": {
     "pre-commit": "lint-staged",
